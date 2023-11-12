@@ -70,11 +70,24 @@ To run this project locally, please follow these steps:-
 
 ## Image
 
-Home Page:
-![image](https://github.com/Rajarshi12321/Anidex/assets/94736350/a011627b-70aa-4daa-a8ab-e8c8e76bb588)
+Creating Account:
+![image](https://github.com/Rajarshi12321/BankSQL_server/assets/94736350/b22af42f-9119-4cc0-bab7-dbd3e72a4c28)
 
-Prediction Result Page:
-![image](https://github.com/Rajarshi12321/Anidex/assets/94736350/7d02e7d1-fe51-4a8c-9f33-5d46ad2eb6ff)
+
+Depositing money:
+![image](https://github.com/Rajarshi12321/BankSQL_server/assets/94736350/9dde0def-b0f4-4f74-ad23-3df6df5685bd)
+
+Withdrawing money:
+![image](https://github.com/Rajarshi12321/BankSQL_server/assets/94736350/d531512e-b0cf-489a-a21d-56f72ffbcb57)
+
+Transferring money:
+![image](https://github.com/Rajarshi12321/BankSQL_server/assets/94736350/ecaaa25a-2fc8-45eb-8706-eb4ee1c93715)
+
+Account Statement:
+![image](https://github.com/Rajarshi12321/BankSQL_server/assets/94736350/c1236781-9003-4a69-ae18-7e85804ea676)
+
+Transaction history:
+![image](https://github.com/Rajarshi12321/BankSQL_server/assets/94736350/f8199023-445f-44fc-9664-14b1763dca65)
 
 
 
