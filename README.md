@@ -81,7 +81,7 @@ Withdrawing money:
 ![image](https://github.com/Rajarshi12321/BankSQL_server/assets/94736350/d531512e-b0cf-489a-a21d-56f72ffbcb57)
 
 Transferring money:
-![image](https://github.com/Rajarshi12321/BankSQL_server/assets/94736350/ecaaa25a-2fc8-45eb-8706-eb4ee1c93715)
+![image](https://github.com/Rajarshi12321/BankSQL_server/assets/94736350/5b7ff47b-47a2-4e7f-9240-dc036d18076b)
 
 Account Statement:
 ![image](https://github.com/Rajarshi12321/BankSQL_server/assets/94736350/c1236781-9003-4a69-ae18-7e85804ea676)
